@@ -1,4 +1,4 @@
-# Stock-market-dashboard
+# Stock-Market-Dashboard
 
 # SP500 Visualizer: Market Trends Analyzer 📈
 
