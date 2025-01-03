@@ -44,5 +44,6 @@ With a focus on clarity and usability, the project provides an accessible way to
 Include rolling averages (e.g., SMA, EMA) for trend smoothing.
 
 Add candlestick charts for in-depth price analysis.
+
 Support for multiple indices like Dow Jones and Nasdaq.
 Integration of interactive dashboards for real-time analysis.
