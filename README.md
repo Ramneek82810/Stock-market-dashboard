@@ -26,7 +26,8 @@ With a focus on clarity and usability, the project provides an accessible way to
 -Data Processing: Clean and organize stock data into an actionable format.
 
 -Visualization: Generate clear and insightful charts to analyze trends.
-Insights: Explore the data visually to uncover meaningful patterns in market performance.
+
+-Insights: Explore the data visually to uncover meaningful patterns in market performance.
 
 # Why Use SP500 Visualizer? 🔍
 Simplified Analysis: Visual data helps you understand market behavior faster.
