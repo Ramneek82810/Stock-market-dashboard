@@ -34,7 +34,8 @@ With a focus on clarity and usability, the project provides an accessible way to
 -Simplified Analysis: Visual data helps you understand market behavior faster.
 
 -Easy-to-Use: Built for clarity with minimal effort required to generate insights.
-Extensible: Expand the project to analyze other stock indices or financial metrics.
+
+-Extensible: Expand the project to analyze other stock indices or financial metrics.
 For Everyone: Designed for beginners, analysts, and finance professionals.
 
 ## Future Enhancements 💡
