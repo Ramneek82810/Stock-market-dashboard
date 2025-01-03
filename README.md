@@ -35,7 +35,7 @@ Easy-to-Use: Built for clarity with minimal effort required to generate insights
 Extensible: Expand the project to analyze other stock indices or financial metrics.
 For Everyone: Designed for beginners, analysts, and finance professionals.
 
-# Future Enhancements 💡
+## Future Enhancements 💡
 Include rolling averages (e.g., SMA, EMA) for trend smoothing.
 Add candlestick charts for in-depth price analysis.
 Support for multiple indices like Dow Jones and Nasdaq.
