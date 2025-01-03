@@ -21,8 +21,9 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 ## Project Workflow 🛠️
 
-Data Retrieval: Fetch historical S&P 500 stock market data for analysis.
-Data Processing: Clean and organize stock data into an actionable format.
+-Data Retrieval: Fetch historical S&P 500 stock market data for analysis.
+
+-Data Processing: Clean and organize stock data into an actionable format.
 Visualization: Generate clear and insightful charts to analyze trends.
 Insights: Explore the data visually to uncover meaningful patterns in market performance.
 
