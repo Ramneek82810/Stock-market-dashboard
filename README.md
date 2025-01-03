@@ -36,7 +36,8 @@ With a focus on clarity and usability, the project provides an accessible way to
 -Easy-to-Use: Built for clarity with minimal effort required to generate insights.
 
 -Extensible: Expand the project to analyze other stock indices or financial metrics.
-For Everyone: Designed for beginners, analysts, and finance professionals.
+
+-For Everyone: Designed for beginners, analysts, and finance professionals.
 
 ## Future Enhancements 💡
 Include rolling averages (e.g., SMA, EMA) for trend smoothing.
