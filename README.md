@@ -19,7 +19,7 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 -Lightweight & Modular: Built to be extendable for additional stock indices or analysis tools.
 
-# Project Workflow 🛠️
+## Project Workflow 🛠️
 
 Data Retrieval: Fetch historical S&P 500 stock market data for analysis.
 Data Processing: Clean and organize stock data into an actionable format.
