@@ -7,7 +7,7 @@ SP500 Visualizer is a streamlined tool that transforms S&P 500 stock data into m
 
 With a focus on clarity and usability, the project provides an accessible way to explore market data and uncover patterns that drive smarter decision-making.
 
-# Features 📊
+## Features 📊
 
 -Interactive Time Series Analysis: Visualize trends in closing prices over time.
 
