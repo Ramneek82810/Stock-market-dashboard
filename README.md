@@ -1,4 +1,4 @@
-# SP500 Visualizer: Market Trends Analyzer 📈
+# SP500 Visualizer:Market Trends Analyzer 📈
 
 A Python-based project for analyzing and visualizing S&P 500 data, offering clear insights into market trends, closing prices, and historical behavior.
 
