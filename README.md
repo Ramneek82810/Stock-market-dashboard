@@ -14,7 +14,7 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 - Volume Insights: Gain clarity on trade volumes and their significance.
 
--Customizable Visuals: Generate various charts for diverse financial analysis needs.
+- Customizable Visuals: Generate various charts for diverse financial analysis needs.
 
 -Data-Driven Insights: Easily identify market patterns and behaviors.
 
