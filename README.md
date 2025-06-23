@@ -18,7 +18,7 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 - Data-Driven Insights: Easily identify market patterns and behaviors.
 
--Lightweight & Modular: Built to be extendable for additional stock indices or analysis tools.
+- Lightweight & Modular: Built to be extendable for additional stock indices or analysis tools.
 
 ## Project Workflow 🛠️
 
