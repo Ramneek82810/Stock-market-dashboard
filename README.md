@@ -12,7 +12,7 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 - Interactive Time Series Analysis: Visualize trends in closing prices over time.
 
--Volume Insights: Gain clarity on trade volumes and their significance.
+- Volume Insights: Gain clarity on trade volumes and their significance.
 
 -Customizable Visuals: Generate various charts for diverse financial analysis needs.
 
