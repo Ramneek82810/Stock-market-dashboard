@@ -16,7 +16,7 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 - Customizable Visuals: Generate various charts for diverse financial analysis needs.
 
--Data-Driven Insights: Easily identify market patterns and behaviors.
+- Data-Driven Insights: Easily identify market patterns and behaviors.
 
 -Lightweight & Modular: Built to be extendable for additional stock indices or analysis tools.
 
