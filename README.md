@@ -10,7 +10,7 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 ## Features 📊
 
--Interactive Time Series Analysis: Visualize trends in closing prices over time.
+- Interactive Time Series Analysis: Visualize trends in closing prices over time.
 
 -Volume Insights: Gain clarity on trade volumes and their significance.
 
