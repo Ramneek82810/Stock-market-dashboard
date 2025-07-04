@@ -2,7 +2,7 @@
 
 A Python-based project for analyzing and visualizing S&P 500 data, offering clear insights into market trends, closing prices, and historical behavior.
 
-## Overview 🚀
+## Overview  🚀
 
 SP500 Visualizer is a streamlined tool that transforms S&P 500 stock data into meaningful visualizations. Designed for traders, analysts, and financial enthusiasts, it simplifies time-series analysis by showcasing trends in closing prices, trade volumes, and market behaviors over time.
 
