@@ -28,7 +28,7 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 - Visualization: Generate clear and insightful charts to analyze trends.
 
--Insights: Explore the data visually to uncover meaningful patterns in market performance.
+- Insights: Explore the data visually to uncover meaningful patterns in market performance.
 
 ## Why Use SP500 Visualizer? 🔍
 
