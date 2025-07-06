@@ -32,7 +32,7 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 ## Why Use SP500 Visualizer? 🔍
 
--Simplified Analysis: Visual data helps you understand market behavior faster.
+- Simplified Analysis: Visual data helps you understand market behavior faster.
 
 -Easy-to-Use: Built for clarity with minimal effort required to generate insights.
 
