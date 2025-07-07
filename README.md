@@ -48,4 +48,4 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 - Support for multiple indices like Dow Jones and Nasdaq.
 
--Integration of interactive dashboards for real-time analysis.
+- Integration of interactive dashboards for real-time analysis.
