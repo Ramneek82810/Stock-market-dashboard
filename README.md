@@ -42,7 +42,7 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 ## Future Enhancements 💡
 
--Include rolling averages (e.g., SMA, EMA) for trend smoothing.
+- Include rolling averages (e.g., SMA, EMA) for trend smoothing.
 
 -Add candlestick charts for in-depth price analysis.
 
