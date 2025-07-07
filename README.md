@@ -38,7 +38,7 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 - Extensible: Expand the project to analyze other stock indices or financial metrics.
 
--For Everyone: Designed for beginners, analysts, and finance professionals.
+- For Everyone: Designed for beginners, analysts, and finance professionals.
 
 ## Future Enhancements 💡
 
