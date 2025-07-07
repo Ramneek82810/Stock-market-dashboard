@@ -46,6 +46,6 @@ With a focus on clarity and usability, the project provides an accessible way to
 
 - Add candlestick charts for in-depth price analysis.
 
--Support for multiple indices like Dow Jones and Nasdaq.
+- Support for multiple indices like Dow Jones and Nasdaq.
 
 -Integration of interactive dashboards for real-time analysis.
