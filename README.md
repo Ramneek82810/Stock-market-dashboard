@@ -15,10 +15,7 @@ An interactive and real-time stock market dashboard built using Python and data 
 ```
 Stock-market-dashboard/
 │
-├── data/                   # Scripts or sample data sources
-│
-├── dashboard.py            # Main dashboard script
-├── helpers.py              # Helper functions for fetching and formatting data
+├── stock_market_dashboard.ipynb      # Main dashboard script
 └── README.md               # You're reading it!
 ```
 
