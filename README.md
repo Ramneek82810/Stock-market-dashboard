@@ -56,7 +56,7 @@ This will open the stock dashboard in your browser at `http://localhost:8501`
 - Powered by `Streamlit` for fast, interactive UI development  
 - Filters and plots can be adjusted in real-time based on user input  
 
-## 📌 Todo
+## 📌 Todo 
 
 - Add sector-wise stock filters  
 - Implement portfolio simulation  
