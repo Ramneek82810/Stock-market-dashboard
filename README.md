@@ -11,7 +11,7 @@ An interactive and real-time stock market dashboard built using Python and data 
 - 💡 Clean and intuitive user interface   
   
 ## 📁 Project Structure
-
+ 
 ```
 Stock-market-dashboard/
 │
