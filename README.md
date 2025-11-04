@@ -10,7 +10,7 @@ An interactive and real-time stock market dashboard built using Python and data 
 - 📅 Date range selectors for time-based analysis   
 - 💡 Clean and intuitive user interface   
   
-## 📁 Project Structure
+## 📁 Project Structure 
  
 ```
 Stock-market-dashboard/
