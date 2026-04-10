@@ -7,7 +7,7 @@ An interactive and real-time stock market dashboard built using Python and data 
 - 📈 Real-time stock price tracking    
 - 📊 Interactive charts for historical stock data      
 - 🔍 Search and filter functionality for specific stocks  
-- 📅 Date range selectors for time-based analysis   
+- 📅 Date range selectors for time-based analysis    
 - 💡 Clean and intuitive user interface    
     
 ## 📁 Project Structure 
