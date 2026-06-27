@@ -1,7 +1,7 @@
 # 📊 Stock-Market Dashboard
  
 An interactive and real-time stock market dashboard built using Python and data visualization tools. This project helps users track and analyze stock performance, visualize trends, and make informed decisions with ease.
-
+ 
 ## 🚀 Features
   
 - 📈 Real-time stock price tracking    
